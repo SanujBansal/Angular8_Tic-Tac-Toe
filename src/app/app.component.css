@@ -1,0 +1,5 @@
+.square {
+  display: grid;
+  grid-template-columns: 7rem 7rem 7rem;
+  grid-gap: 4px;
+}
