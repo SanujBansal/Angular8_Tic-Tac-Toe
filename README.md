@@ -1,3 +1,5 @@
+Test Deployed Game at:- https://tictactoe-angular8.firebaseapp.com/
+
 # TicTacToe
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.3.
